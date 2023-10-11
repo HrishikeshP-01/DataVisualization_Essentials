@@ -50,5 +50,12 @@ People digest data under the Gestalt theory which attempts to explain how we gen
 **Infographics** – graphics are pre-generated, it’s more artistic, usually contains static data
 **Data visualization** – the algorithm can crunch no:s in real-time to provide interactive visualizations, less artistic, can contain dynamic data
 
+## Choosing the type of visualization for the data
+- *Graphs* – Data must map 2 variables, at least 1 of them must be quantitative. Used to convey a trend or a pattern.
+- *Timeline diagrams* – for data over time
+- *Template diagram* – for showing a guide or a plan to be completed
+- *Flowchart* – for ordered set of instructions
+- *Checklist* – tasks to be crossed off as they are completed
+- *Mind-map* – represented the linking of ideas, with the subject (main topic) in the center which is connected to Ideas (sub-topics) which are then connected to sub-ideas. Can incorporate words, pictures, colors etc. & can present an overview of a central topic with large amounts of related information.
 
 
