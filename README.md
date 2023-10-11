@@ -40,3 +40,9 @@ People digest data under the Gestalt theory which attempts to explain how we gen
 - Visualization provides the right info to audience
 - Provide rapid response when users interact with it
 - Scalable – users can zoom/scale & easily explore your visualizations
+- Communicates & presents data in a comprehensive way
+- Enables analysis of data – supports decision making & answers the questions of users
+- Make large sets of data clear & coherent
+- Shows multiple levels – allows user to see the big picture while having the option to dig deeper
+- Don’t distort the data
+- A good data visualization makes the audience think about the data & not the way it was presented
