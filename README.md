@@ -31,3 +31,12 @@ People digest data under the Gestalt theory which attempts to explain how we gen
 - *Principle of similarity* – if things look the same, people perceive them as the same type.
 - *Enclosure & continuity* – things with a boundary or continuation are seen as a group
 - *Closure* – individuals perceive structures as shapes, letters or pictures & even when these structures have gaps, they perceive them as being whole i.e, their brains fill in the gaps
+
+## Traits of good data visualization
+- Data presented is useful for the audience
+- Data presented is usable by the audience
+- They are pleasant to use
+- They are highly accessible
+- Visualization provides the right info to audience
+- Provide rapid response when users interact with it
+- Scalable – users can zoom/scale & easily explore your visualizations
