@@ -20,3 +20,7 @@ During data visualization we should never misrepresent or try to obscure the dat
 - What info do they require & do different audience members require different information?
 - Are they from different cultures or speak different languages?
 - Are there visual impairments? This affects the colors & sizes you can use.
+
+After you answer the above questions:
+
+Create data visualizations for the audience & ensure that they understand it & are engaged by it. Channel your narrative to them specifically.
