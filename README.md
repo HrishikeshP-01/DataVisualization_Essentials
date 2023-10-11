@@ -46,3 +46,9 @@ People digest data under the Gestalt theory which attempts to explain how we gen
 - Shows multiple levels – allows user to see the big picture while having the option to dig deeper
 - Don’t distort the data
 - A good data visualization makes the audience think about the data & not the way it was presented
+
+**Infographics** – graphics are pre-generated, it’s more artistic, usually contains static data
+**Data visualization** – the algorithm can crunch no:s in real-time to provide interactive visualizations, less artistic, can contain dynamic data
+
+
+
