@@ -24,3 +24,10 @@ During data visualization we should never misrepresent or try to obscure the dat
 After you answer the above questions:
 
 Create data visualizations for the audience & ensure that they understand it & are engaged by it. Channel your narrative to them specifically.
+
+## Gestalt Principles of Perception
+People digest data under the Gestalt theory which attempts to explain how we generate meaningful perceptions. Some principles are:
+- *Principle of proximity* – when individuals perceive an assortment of objects, they perceive objects close to each other as being part of the same group. In other words, if things are close to each other, people perceive them as being part of the same group.
+- *Principle of similarity* – if things look the same, people perceive them as the same type.
+- *Enclosure & continuity* – things with a boundary or continuation are seen as a group
+- *Closure* – individuals perceive structures as shapes, letters or pictures & even when these structures have gaps, they perceive them as being whole i.e, their brains fill in the gaps
