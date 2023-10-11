@@ -87,6 +87,10 @@ We process all data from an image at the same time. We process text linearly. Im
 - *Size* – very effective in conveying quantitative data
 - *Position & size* – they are used together for quantitative data. Eg: Graphs, etc. Less relevant info is commonly put in the side & is relatively small in size
 
+## Colors
+- Color is powerful but subjective
+- Bold colors convey a message but could clash or be garish
+- Color theory is a good place to start
 
 
 
