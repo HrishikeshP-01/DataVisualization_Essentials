@@ -58,4 +58,4 @@ People digest data under the Gestalt theory which attempts to explain how we gen
 - *Checklist* – tasks to be crossed off as they are completed
 - *Mind-map* – represented the linking of ideas, with the subject (main topic) in the center which is connected to Ideas (sub-topics) which are then connected to sub-ideas. Can incorporate words, pictures, colors etc. & can present an overview of a central topic with large amounts of related information.
 
-
+**Interactive data visualization** – users can interact to manipulate some aspect of the dataset or the way of presentation. It lets them gain insights from data at the level they require.
