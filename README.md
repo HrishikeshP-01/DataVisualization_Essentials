@@ -59,3 +59,10 @@ People digest data under the Gestalt theory which attempts to explain how we gen
 - *Mind-map* – represented the linking of ideas, with the subject (main topic) in the center which is connected to Ideas (sub-topics) which are then connected to sub-ideas. Can incorporate words, pictures, colors etc. & can present an overview of a central topic with large amounts of related information.
 
 **Interactive data visualization** – users can interact to manipulate some aspect of the dataset or the way of presentation. It lets them gain insights from data at the level they require.
+
+## Importance of narrative
+- People care about stories
+- Data with a story attached to it is unforgettable
+- A good narrative captivates audiences
+- Images shown during the narrative should be aligned with the narrative so that the audience can relate to them easily
+- Adjust tone & delivery based on the intended audience
