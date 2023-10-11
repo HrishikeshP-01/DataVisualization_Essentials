@@ -66,3 +66,8 @@ People digest data under the Gestalt theory which attempts to explain how we gen
 - A good narrative captivates audiences
 - Images shown during the narrative should be aligned with the narrative so that the audience can relate to them easily
 - Adjust tone & delivery based on the intended audience
+
+## Image vs. text
+We process all data from an image at the same time. We process text linearly. Images are more engaging & complements narratives, is easier for audience to relate to.
+
+**Reify data** – take abstract concept represented by data & make it tangible using pictures, icons words etc.
