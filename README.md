@@ -71,3 +71,14 @@ People digest data under the Gestalt theory which attempts to explain how we gen
 We process all data from an image at the same time. We process text linearly. Images are more engaging & complements narratives, is easier for audience to relate to.
 
 **Reify data** – take abstract concept represented by data & make it tangible using pictures, icons words etc.
+
+## Icons used during data visualization
+- Should be recognizable
+- Should convey meaning immediately but the meaning should be specific
+- Don’t overuse icons in your visuals
+- They should be of same size so that other images shouldn’t loose meaning
+- Lots of icons can appear facile – it can make your visualization look superficial 
+
+
+
+
