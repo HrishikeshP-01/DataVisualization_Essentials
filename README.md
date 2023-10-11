@@ -79,6 +79,16 @@ We process all data from an image at the same time. We process text linearly. Im
 - They should be of same size so that other images shouldn’t loose meaning
 - Lots of icons can appear facile – it can make your visualization look superficial 
 
+## Visual aspects
+- *Colors* – end result must look aesthetic & pleasing
+- *Contrast* – use it to compare items
+- *Position* – use it to communicating quantitative, numerical & ordinal data
+- *Shape* – somewhat effective while communicating nominal data, avoid using quantitative data using it
+- *Size* – very effective in conveying quantitative data
+- *Position & size* – they are used together for quantitative data. Eg: Graphs, etc. Less relevant info is commonly put in the side & is relatively small in size
+
+
+
 
 
 
