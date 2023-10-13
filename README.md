@@ -96,6 +96,14 @@ We process all data from an image at the same time. We process text linearly. Im
 - Shape is less effective than color for differentiating data. So they should be accompanied with color.
 - Shapes alone don’t make trends pop out.
 
+## Scale
+- Scale affects how we perceive relative values
+- The start value of an axis has a big impact on the relative differences
+- The same chart with different scales tells different stories. 
+- If you use scale to distort user perception intentionally or un-intentionally, if found out, you will lose your credibility.
+
+
+
 
 
 
