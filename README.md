@@ -102,6 +102,15 @@ We process all data from an image at the same time. We process text linearly. Im
 - The same chart with different scales tells different stories. 
 - If you use scale to distort user perception intentionally or un-intentionally, if found out, you will lose your credibility.
 
+## Scale exaggeration
+- Consider your goal & audiences
+- Suppose you want to convince an audience of a fact:
+- Skeptics are unlikely to believe & exaggerated scale
+- People already persuaded by you will loose their trust in you if they find out the scale is exaggerated
+- Be subtle when you use it
+- Sometimes it’s OK to exaggerate small differences
+- However, always choose a scale that gives an honest appraisal
+- It should still maintain a narrative
 
 
 
