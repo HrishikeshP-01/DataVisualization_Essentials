@@ -112,6 +112,11 @@ We process all data from an image at the same time. We process text linearly. Im
 - However, always choose a scale that gives an honest appraisal
 - It should still maintain a narrative
 
+## Legends
+- Legend/key explains data
+- Legend makes the data clearer
+- If the item labels are small, place it beside the chart. If they are long, place it below the chart
+- Complicated charts need detailed legends. In such cases legends could be broken out into a separate page
 
 
 
