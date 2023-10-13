@@ -118,6 +118,10 @@ We process all data from an image at the same time. We process text linearly. Im
 - If the item labels are small, place it beside the chart. If they are long, place it below the chart
 - Complicated charts need detailed legends. In such cases legends could be broken out into a separate page
 
+## Sources
+- Adding sources gives credibility to your data visualizations
+- Adding good sources increases the trust users have in your data
+- Skeptics will cast doubt on un-sourced data
 
 
 
