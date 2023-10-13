@@ -92,6 +92,9 @@ We process all data from an image at the same time. We process text linearly. Im
 - Bold colors convey a message but could clash or be garish
 - Color theory is a good place to start
 
+## Shape
+- Shape is less effective than color for differentiating data. So they should be accompanied with color.
+- Shapes alone don’t make trends pop out.
 
 
 
